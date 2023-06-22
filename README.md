@@ -2,5 +2,5 @@
 
 Please Prefix issues with whatever website you downloaded from.
 
-##Example
+## Example
 PlanetMinecraft[issuehere]
